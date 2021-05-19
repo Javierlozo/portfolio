@@ -4100,6 +4100,7 @@ button.btn--pill {
   background-color: white;
   position: relative;
   overflow: hidden;
+  border-radius: 13px;
 }
 
 .folio-item__thumb::before {
