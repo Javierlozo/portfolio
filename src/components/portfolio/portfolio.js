@@ -31,7 +31,7 @@ export default class Portfolio extends Component {
             <img src="images/portfolio/gallery/g-rental3.png" alt="" />
             <div className="modal-popup__desc">
                 <h5>Rental App</h5>
-                <p>A sport equipment rental application in Charleston area. This application was created in React with Node.js, express, AWS for identity and access management, S3 image cloud storage and RDS with MySQL for the data base side.</p>
+                <p>A sport equipment rental application in Charleston area. This application was created in React with Node.js, express, AWS for identity and access management, cognito, S3 image cloud storage and RDS with MySQL for the data base side.</p>
             </div>
             <a href="https://javierlozo.github.io/Rental-App/" className="modal-popup__details">Project link</a>
             </div>
